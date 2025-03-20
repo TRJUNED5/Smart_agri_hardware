@@ -1,4 +1,4 @@
-
+This is hardware part where i used varios sensors such as NPK, moisture and DHT22 with microcomtroller Arduino and RaspberryPi
 
 
 
